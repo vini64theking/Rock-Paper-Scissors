@@ -42,3 +42,8 @@ h1{
 #playerScore,#computerScore{
     font-size: 1.5rem;
 }
+@media only screen and (max-width:600px){
+    h1{
+        font-size: 2rem;
+    }
+}
