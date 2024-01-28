@@ -40,10 +40,10 @@ h1{
     color: hsl(0, 70%, 45%);
 }
 #playerScore,#computerScore{
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 @media only screen and (max-width:600px){
     h1{
-        font-size: 2rem;
+        font-size: 1rem;
     }
 }
