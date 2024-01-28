@@ -44,7 +44,7 @@ h1{
 }
 @media only screen and (max-width:600px){
     h1{
-        font-size: 1.5rem;
+        font-size: 2rem;
         max-width: 90%
         overflow: hidden;
         white-space: nowrap;
